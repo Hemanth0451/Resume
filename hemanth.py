@@ -1,5 +1,5 @@
 import streamlit as st
-import fitz  # or: import fitz as ft
+import fitz
 import google.generativeai as genai
 
 # ---- CONFIG ----
