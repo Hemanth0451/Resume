@@ -1,5 +1,5 @@
 import streamlit as st
-import fitz  # PyMuPDF
+import fitz  # or: import fitz as ft
 import google.generativeai as genai
 
 # ---- CONFIG ----
